@@ -1,0 +1,133 @@
+{
+  "allVideos": [
+    {
+      "id": "2fa6",
+      "caption": "Deadpool & Wolverine Trailer",
+      "url": "https://i.guim.co.uk/img/media/d69e620f9387fe9e928c89ed0fde8cca2891f1e7/0_0_6000_3602/master/6000.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=12c46e578a8ad1ecfaba9a98e9f9b8b7",
+      "link": "https://www.youtube.com/embed/73_1biulkYk"
+    },
+    {
+      "id": "6b2e",
+      "caption": "Kanguva Trailer",
+      "url": "https://m.media-amazon.com/images/M/MV5BMTEyMzJkZjUtM2ZiOS00NzQ1LTgzZjYtYmJiMTg3ZGNlMzc0XkEyXkFqcGc@._V1_.jpg",
+      "link": "https://www.youtube.com/embed/ajnCMSC4VPo"
+    },
+    {
+      "id": "e583",
+      "caption": "spiderman miles morales ps5 trailer",
+      "url": "https://image.api.playstation.com/vulcan/img/rnd/202010/2417/tnCutdREPv6Pa7atqb8MTxGW.png",
+      "link": "https://www.youtube.com/embed/3wHL2VIaFcs"
+    },
+    {
+      "id": "94dc",
+      "caption": "Kill Trailer",
+      "url": "https://m.media-amazon.com/images/M/MV5BZjI1ZjM3NjUtYTc1Ni00ODJmLWI5YjQtMWZiZTAyNTFiZGY1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "link": "https://www.youtube.com/embed/da7lKeeS67c"
+    },
+    {
+      "id": "3c3e",
+      "caption": "Perfect",
+      "url": "https://i1.sndcdn.com/artworks-000240088107-9s5wcs-t500x500.jpg",
+      "link": "https://www.youtube.com/embed/2Vv-BfVoq4g"
+    },
+    {
+      "id": "ddf0",
+      "caption": "Sthuthi Music",
+      "url": "https://i.ytimg.com/vi/eP7RKLlZ90k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCOc5G5NOBv65ehd7Q18EwP65z5qg",
+      "link": "https://www.youtube.com/embed/exkJKrAVzAc"
+    }
+  ],
+  "categories": [
+    {
+      "id": "ea31",
+      "categoryName": "TRAILERS",
+      "allVideos": []
+    },
+    {
+      "id": "ea32",
+      "categoryName": "MUSIC",
+      "allVideos": [
+        {
+          "id": "b7b5",
+          "caption": "Big Dwags",
+          "url": "https://static.toiimg.com/thumb/msid-112518044,width-1280,height-720,resizemode-4/112518044.jpg",
+          "link": "https://www.youtube.com/embed/hOHKltAiKXQ"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "2ebe",
+      "caption": "Deadpool & Wolverine Trailer",
+      "link": "https://www.youtube.com/embed/73_1biulkYk",
+      "timeStamp": "10/3/2024, 9:36:55 PM GMT+5:30"
+    },
+    {
+      "id": "3d92",
+      "caption": "Big Dwags",
+      "link": "https://www.youtube.com/embed/hOHKltAiKXQ",
+      "timeStamp": "10/3/2024, 10:16:28 PM GMT+5:30"
+    },
+    {
+      "id": "e2b3",
+      "caption": "Sthuthi Music",
+      "link": "https://www.youtube.com/embed/exkJKrAVzAc",
+      "timeStamp": "10/3/2024, 10:17:03 PM GMT+5:30"
+    },
+    {
+      "id": "3ce7",
+      "caption": "Sthuthi Music",
+      "link": "https://www.youtube.com/embed/exkJKrAVzAc",
+      "timeStamp": "10/4/2024, 1:48:01 PM GMT+5:30"
+    },
+    {
+      "id": "bf94",
+      "caption": "as",
+      "link": "https://www.youtube.com/embed/eP7RKLlZ90k",
+      "timeStamp": "10/4/2024, 1:48:24 PM GMT+5:30"
+    },
+    {
+      "id": "a032",
+      "caption": "Perfect",
+      "link": "https://www.youtube.com/embed/2Vv-BfVoq4g",
+      "timeStamp": "10/4/2024, 2:36:10 PM GMT+5:30"
+    },
+    {
+      "id": "f8fa",
+      "caption": "Sthuthi Music",
+      "link": "https://www.youtube.com/embed/exkJKrAVzAc",
+      "timeStamp": "10/4/2024, 3:22:57 PM GMT+5:30"
+    },
+    {
+      "id": "6a81",
+      "caption": "demo",
+      "link": "https://www.youtube.com/embed/zwFG1tcKsgw",
+      "timeStamp": "10/7/2024, 1:53:02 PM GMT+5:30"
+    },
+    {
+      "id": "a871",
+      "caption": "The Cure",
+      "link": "https://www.youtube.com/embed/PdxPlbKFkaM",
+      "timeStamp": "10/7/2024, 1:55:31 PM GMT+5:30"
+    },
+    {
+      "id": "c213",
+      "caption": "Kanguva Trailer",
+      "link": "https://www.youtube.com/embed/ajnCMSC4VPo",
+      "timeStamp": "10/7/2024, 2:22:53 PM GMT+5:30"
+    },
+    {
+      "id": "2b69",
+      "caption": "spiderman miles morales ps5 trailer",
+      "link": "https://www.youtube.com/embed/3wHL2VIaFcs",
+      "timeStamp": "10/8/2024, 2:04:48 PM GMT+5:30"
+    },
+    {
+      "id": "de85",
+      "caption": "spiderman miles morales ps5 trailer",
+      "link": "https://www.youtube.com/embed/3wHL2VIaFcs",
+      "timeStamp": "10/8/2024, 2:04:56 PM GMT+5:30"
+    }
+  ]
+}
