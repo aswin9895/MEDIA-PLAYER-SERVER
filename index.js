@@ -1,6 +1,5 @@
 // import json-server 
 const JsonServer = require('json-server')
-
 // create server
 const mpServer = JsonServer.create()
 
